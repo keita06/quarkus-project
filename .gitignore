@@ -1,2 +1,6 @@
 target/
 src/main/resources/firebase-serviceAccount.json
+.project
+.factorypath
+.setting
+.vscode
